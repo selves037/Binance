@@ -1,1 +1,5 @@
+{
+  "allowExecute": true,
+  "action": "sayHello"
+}
 
